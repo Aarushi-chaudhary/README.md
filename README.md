@@ -20,7 +20,7 @@
 
 ## 🔗 Connect with ME  
 
-[![portfolio](https://img.shields.io/badge/portfolio-c2b3e5?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+<!-- [![portfolio](https://img.shields.io/badge/portfolio-c2b3e5?style=for-the-badge&logo=ko-fi&logoColor=white)]() -->
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-chaudhary/) 
 
